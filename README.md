@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Falcon+Welcome+to+my+Github+Profile!" alt="Hey, I'm Falcon!" />
-  <h3>An AI/ML gurlllll!!! !!</h3>
+  <h3>An AI/ML gurlll !!!</h3>
   <img align="center" width="400" src="https://github.com/mistaluai/mistaluai/blob/main/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?raw=true" alt="coding gif">
 </div>
 
